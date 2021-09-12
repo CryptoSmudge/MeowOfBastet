@@ -1,0 +1,39 @@
+{
+  "name" : "Ra",
+  "description" : "God of the sun that loves to experiment",
+  "image" : "ipfs://QmfJe5NBPXsqUCax97YkQ2NzqvJqFBGGd85oxPLwMsHXks/Ra_07_356.gif",
+  "properties" : {
+    "summary" : "Ra is the god of the sun and rules in all parts of the created world.\nThe chameleon on the NFT has the ability to change color and boost features.\nSmudge loves to experiment and so do friends.",
+    "full_story" : "ipfs://QmeGwdgYJJP6kM41UVCcZNNdyaXAfNQRbH7dYsBLwn4x7c/Ra_07_356.txt",
+    "alignment" : 8,
+    "powers" : [
+      {
+        "key" : "friendliness",
+        "value" : 8
+      },
+      {
+        "key" : "bravery",
+        "value" : -4
+      },
+      {
+        "key" : "playfulness",
+        "value" : 1
+      },
+      {
+        "key" : "inquisitiveness",
+        "value" : 9
+      },
+      {
+        "key" : "speed",
+        "value" : 1
+      },
+      {
+        "key" : "eyesight ",
+        "value" : -4
+      }
+    ],
+    "items" : [
+      1
+    ]
+  }
+}

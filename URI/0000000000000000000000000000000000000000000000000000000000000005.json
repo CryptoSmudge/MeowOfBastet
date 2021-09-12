@@ -1,0 +1,39 @@
+{
+  "name" : "ScepterOfSmudge",
+  "description" : " The only way to tamper chaos",
+  "image" : "ipfs://QmfJe5NBPXsqUCax97YkQ2NzqvJqFBGGd85oxPLwMsHXks/ScepterOfSmudge_05_136.gif",
+  "properties" : {
+    "summary" : "In rare occasions chaos needs to be tampered and the only way to gain force over that is by holding the set of Smudge scepters.\nOwning a cat toy gives the power of the fish temporarily, use it wisely. ",
+    "full_story" : "ipfs://QmSEmFfQxQsqyawUpxvZDSjGVMxQ4k3brAE5pM3PDrohn6/kittymummy_story.txt",
+    "alignment" : 8,
+    "powers" : [
+      {
+        "key" : "friendliness",
+        "value" : 3
+      },
+      {
+        "key" : "bravery",
+        "value" : 9
+      },
+      {
+        "key" : "playfulness",
+        "value" : 6
+      },
+      {
+        "key" : "inquisitiveness",
+        "value" : 5
+      },
+      {
+        "key" : "speed",
+        "value" : 5
+      },
+      {
+        "key" : "eyesight ",
+        "value" : 4
+      }
+    ],
+    "items" : [
+      1
+    ]
+  }
+}

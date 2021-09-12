@@ -1,0 +1,39 @@
+{
+  "name" : "PoolParty",
+  "description" : "Party hard but don't get wet",
+  "image" : "ipfs://QmfJe5NBPXsqUCax97YkQ2NzqvJqFBGGd85oxPLwMsHXks/PoolParty_06_220.gif",
+  "properties" : {
+    "summary" : "Pool floats are fun and the perfect lounger for those who like to party but don't want to get wet. \nThis NFT gives you a cool party popper that enables you to join private parties together with Smudge. \nIt’s a good idea to catch one, you never know... Meow",
+    "full_story" : "ipfs://QmeGwdgYJJP6kM41UVCcZNNdyaXAfNQRbH7dYsBLwn4x7c/PoolParty_06_220.txt",
+    "alignment" : 8,
+    "powers" : [
+      {
+        "key" : "friendliness",
+        "value" : 5
+      },
+      {
+        "key" : "bravery",
+        "value" : 1
+      },
+      {
+        "key" : "playfulness",
+        "value" : 9
+      },
+      {
+        "key" : "inquisitiveness",
+        "value" : 3
+      },
+      {
+        "key" : "speed",
+        "value" : 2
+      },
+      {
+        "key" : "eyesight ",
+        "value" : -3
+      }
+    ],
+    "items" : [
+      1
+    ]
+  }
+}

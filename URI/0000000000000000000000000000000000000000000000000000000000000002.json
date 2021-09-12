@@ -1,0 +1,39 @@
+{
+  "name" : "KittyMummy",
+  "description" : "The best friend of Bastet",
+  "image" : "ipfs://QmfJe5NBPXsqUCax97YkQ2NzqvJqFBGGd85oxPLwMsHXks/KittyMummy_02_032.gif",
+  "properties" : {
+    "summary" : "KittyMummy is the best friend of Bastet and when used together the spell of the fishbone can be cast.\nFishbones have the ability to lower risk in mysterious Smudge smart contracts.\nThis NFT has the power of the fish. \nHard to find and get... Meow",
+    "full_story" : "ipfs://QmeGwdgYJJP6kM41UVCcZNNdyaXAfNQRbH7dYsBLwn4x7c/Kittymummy_02_032.txt",
+    "alignment" : 8,
+    "powers" : [
+      {
+        "key" : "friendliness",
+        "value" : 7
+      },
+      {
+        "key" : "bravery",
+        "value" : 8
+      },
+      {
+        "key" : "playfulness",
+        "value" : 2
+      },
+      {
+        "key" : "inquisitiveness",
+        "value" : 2
+      },
+      {
+        "key" : "speed",
+        "value" : 4
+      },
+      {
+        "key" : "eyesight ",
+        "value" : 8
+      }
+    ],
+    "items" : [
+      1
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name" : "Kheper",
+  "description" : "Scarab-faced god",
+  "image" : "ipfs://QmfJe5NBPXsqUCax97YkQ2NzqvJqFBGGd85oxPLwMsHXks/Kheper_03_052.gif",
+  "properties" : {
+    "summary" : "This scarab-faced god represents the rising sun and has the ability to instantly decarbonise things. Holders benefit from the power of the fish, which keeps your wallet high performing with fatty acids and vitamins.",
+    "full_story" : "ipfs://QmeGwdgYJJP6kM41UVCcZNNdyaXAfNQRbH7dYsBLwn4x7c/Kheper_03_052.txt",
+    "alignment" : 8,
+    "powers" : [
+      {
+        "key" : "friendliness",
+        "value" : 4
+      },
+      {
+        "key" : "bravery",
+        "value" : 7
+      },
+      {
+        "key" : "playfulness",
+        "value" : 4
+      },
+      {
+        "key" : "inquisitiveness",
+        "value" : 2
+      },
+      {
+        "key" : "speed",
+        "value" : 9
+      },
+      {
+        "key" : "eyesight ",
+        "value" : 7
+      }
+    ],
+    "items" : [
+      1
+    ]
+  }
+}

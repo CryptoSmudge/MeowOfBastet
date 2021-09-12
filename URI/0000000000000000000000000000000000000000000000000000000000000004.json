@@ -1,0 +1,39 @@
+{
+  "name" : "Canopic",
+  "description" : "mummification jar that comes in handy in afterlife",
+  "image" : "ipfs://QmfJe5NBPXsqUCax97YkQ2NzqvJqFBGGd85oxPLwMsHXks/Canopic_04_84.gif",
+  "properties" : {
+    "summary" : "Canopic jars are used during the mummification process to store and preserve the viscera, comes in handy in afterlife or during long mysterious crypto journeys...\nThe cat toy artifact temporarily gives you the power of the fish.",
+    "full_story" : "ipfs://QmeGwdgYJJP6kM41UVCcZNNdyaXAfNQRbH7dYsBLwn4x7c/Canopic_04_84.txt",
+    "alignment" : 8,
+    "powers" : [
+      {
+        "key" : "friendliness",
+        "value" : 5
+      },
+      {
+        "key" : "bravery",
+        "value" : 5
+      },
+      {
+        "key" : "playfulness",
+        "value" : 9
+      },
+      {
+        "key" : "inquisitiveness",
+        "value" : 5
+      },
+      {
+        "key" : "speed",
+        "value" : 9
+      },
+      {
+        "key" : "eyesight ",
+        "value" : 4
+      }
+    ],
+    "items" : [
+      1
+    ]
+  }
+}

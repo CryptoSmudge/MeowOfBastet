@@ -1,1 +1,39 @@
-
+{
+  "name" : "Bastet",
+  "description" : "Bastet is the Genesis NFT",
+  "image" : "ipfs://QmfJe5NBPXsqUCax97YkQ2NzqvJqFBGGd85oxPLwMsHXks/Bastet_01_014.gif",
+  "properties" : {
+    "summary" : "Bastet is a fierce lioness warrior goddess of the sun worshiped throughout by any Smudge friend. Holders can cast the spell, MeowOfBastet. Smudgecat gives the holder extraordinary abilities and can transform into any artifact of the NFT deck.",
+    "full_story" : "ipfs://QmeGwdgYJJP6kM41UVCcZNNdyaXAfNQRbH7dYsBLwn4x7c/Bastet_01_014.txt",
+    "alignment" : 8,
+    "powers" : [
+      {
+        "key" : "friendliness",
+        "value" : 9
+      },
+      {
+        "key" : "bravery",
+        "value" : 8
+      },
+      {
+        "key" : "playfulness",
+        "value" : 8
+      },
+      {
+        "key" : "inquisitiveness",
+        "value" : 10
+      },
+      {
+        "key" : "speed",
+        "value" : 10
+      },
+      {
+        "key" : "eyesight ",
+        "value" : 9
+      }
+    ],
+    "items" : [
+      1
+    ]
+  }
+}
